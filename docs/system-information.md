@@ -1,0 +1,24 @@
+root@K2Plus-DBD5:~# hostname
+K2Plus-DBD5
+root@K2Plus-DBD5:~# uname -a
+Linux K2Plus-DBD5 5.4.61 #1 SMP PREEMPT Tue Jun 23 09:45:29 CST 2026 armv7l GNU/Linux
+root@K2Plus-DBD5:~# cat /etc/os-release
+NAME="OpenWrt"
+VERSION="21.02-SNAPSHOT"
+ID="openwrt"
+ID_LIKE="lede openwrt"
+PRETTY_NAME="OpenWrt 21.02-SNAPSHOT"
+VERSION_ID="21.02-snapshot"
+HOME_URL="https://openwrt.org/"
+BUG_URL="https://bugs.openwrt.org/"
+SUPPORT_URL="https://forum.openwrt.org/"
+BUILD_ID="r0-0b5de290a"
+OPENWRT_BOARD="t113_i-CR0CN240110C10/generic"
+OPENWRT_ARCH="arm_cortex-a7_neon"
+OPENWRT_TAINTS="no-all glibc busybox"
+OPENWRT_DEVICE_MANUFACTURER="OpenWrt"
+OPENWRT_DEVICE_MANUFACTURER_URL="https://openwrt.org/"
+OPENWRT_DEVICE_PRODUCT="Generic"
+OPENWRT_DEVICE_REVISION="v0"
+OPENWRT_RELEASE="OpenWrt 21.02-SNAPSHOT 5.0"
+root@K2Plus-DBD5:~#
